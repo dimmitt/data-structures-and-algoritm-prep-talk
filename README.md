@@ -10,6 +10,11 @@ functions:
   def, return;
 ```
 
+#### python b+ tree
+https://github.com/NicolasLM/bplustree
+https://gist.github.com/teepark/572734
+
+
 random blog post about trees in python:
 https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051
 
@@ -112,3 +117,21 @@ https://github.com/kanwei/algorithms
   - Mergesort                Algorithms::Sort.mergesort
   - Dual-Pivot Quicksort     Algorithms::Sort.dualpivotquicksort
 ```
+
+## Javascript
+https://github.com/frptools/collectable - contains multiple structures including red-black-tree.
+https://github.com/mauriciosantos/Buckets-JS
+includes: Linked List Dictionary MultiDictionary Binary Search Tree Stack Queue Set Bag Binary Heap Priority Queue
+
+## GoData Structures
+https://github.com/emirpasic/gods
+
+## C# algorithms + data structures
+https://github.com/justcoding121/Advanced-Algorithms
+
+## C bplus tree demo
+https://github.com/begeekmyfriend/bplustree/tree/in-memory
+
+## c++ 
+veroni diagram: https://github.com/tomilov/sweepline
+b+ tree: https://github.com/zcbenz/BPlusTree
