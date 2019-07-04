@@ -120,8 +120,10 @@ https://github.com/kanwei/algorithms
 
 ## Javascript
 https://github.com/frptools/collectable - contains multiple structures including red-black-tree.
-https://github.com/mauriciosantos/Buckets-JS
-includes: Linked List Dictionary MultiDictionary Binary Search Tree Stack Queue Set Bag Binary Heap Priority Queue
+<br/>http://swannodette.github.io/mori/#primSeq - like lodash but it has persistant data structures.
+<br/>the immutable js docs are better than the github readme. https://immutable-js.github.io/immutable-js/
+<br/>https://github.com/mauriciosantos/Buckets-JS
+<br/>includes: Linked List Dictionary MultiDictionary Binary Search Tree Stack Queue Set Bag Binary Heap Priority Queue
 
 ## GoData Structures
 https://github.com/emirpasic/gods
