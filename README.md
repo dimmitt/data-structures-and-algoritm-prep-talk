@@ -61,7 +61,26 @@ Java relection: https://stackoverflow.com/a/9240969/5283424
 https://github.com/ronmamo/reflections
 <br/>https://github.com/classgraph/classgraph
 
-https://www.tutorialspoint.com/java/java_collection_interface.htm
+## from java.utils
+https://www.tutorialspoint.com/java/java_collections.htm
+</br>https://www.tutorialspoint.com/java/java_collection_interface.htm
+</br>[linked-list](https://www.tutorialspoint.com/java/java_linkedlist_class.htm) [array_list](https://www.tutorialspoint.com/java/java_arraylist_class.htm) 
+
+sets
+</br>[hash_set](https://www.tutorialspoint.com/java/java_hashset_class.htm): Extends AbstractSet for use with a hash table.
+</br>[linked_hash_set](https://www.tutorialspoint.com/java/java_linkedhashset_class.htm): Extends HashSet to allow insertion-order iterations.
+</br>[TreeSet](https://www.tutorialspoint.com/java/java_treeset_class.htm): Implements a set stored in a tree. Extends AbstractSet.
+
+maps
+[HashMap](https://www.tutorialspoint.com/java/java_hashmap_class.htm): Implements most of the Map interface and extending AbstractMap to use a hash table. 
+</br>[TreeMap](https://www.tutorialspoint.com/java/java_treemap_class.htm): Extends AbstractMap to use a tree.
+</br>[WeakHashMap](https://www.tutorialspoint.com/java/java_weakhashmap_class.htm): Extends AbstractMap to use a hash table with weak keys.
+</br>[LinkedHashMap](https://www.tutorialspoint.com/java/java_linkedhashmap_class.htm): Extends HashMap to allow insertion-order iterations.
+</br>[IdentityHashMap](https://www.tutorialspoint.com/java/java_identityhashmap_class.htm): Extends AbstractMap and uses reference equality when comparing documents.
+
+[vector](https://www.tutorialspoint.com/java/java_vector_class.htm): synchrounous thread safe and slower than an array list.
+
+[algorithms_from_java.util](https://www.tutorialspoint.com/java/java_collection_algorithms.htm): see the coding example.
 
 ## Ruby
 graphs: https://github.com/monora/rgl
