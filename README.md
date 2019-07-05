@@ -12,6 +12,8 @@ Hashes allow a fast search for knowing:
 - "whether some item is present— equality."
 ### End of paraphrased content.
 
+Balancing of trees allow for lookups to be faster but require tree rotations some are self balancing.
+- Tries, AVL Trees/RedBlack, Skip Lists, b+ tree.
 
 ## Hashmap
 
