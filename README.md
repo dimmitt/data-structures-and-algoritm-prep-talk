@@ -1,15 +1,17 @@
-## Data Structures and Algoritm Prep. Talk.
+# Data Structures and Algoritm Prep. Talk.
 
-#### Data Structures Paul N. Hilfinger
+## Paraphrased from: Data Structures Paul N. Hilfinger:
 
-SortedArrays and BinarySearchTrees allows a fast search for knowing:
+SortedArrays and BinarySearchTrees allow a fast search for knowing:
 - “is there something larger (smaller) than X in here?”
 
-Heap allows a fast search for knowing:
+Heaps allow a fast search for knowing:
 - “what is the largest item in here?”
 
-Hashing allows a fast search for knowing:
+Hashes allow a fast search for knowing:
 - "whether some item is present— equality."
+### End of paraphrased content.
+
 
 ## Hashmap
 
@@ -148,7 +150,7 @@ https://github.com/emirpasic/gods
 ## C# algorithms + data structures
 https://github.com/justcoding121/Advanced-Algorithms
 
-## C bplus tree demo
+## C b+ tree demo
 https://github.com/begeekmyfriend/bplustree/tree/in-memory
 
 ## c++ 
