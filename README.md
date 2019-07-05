@@ -15,6 +15,10 @@ Hashes allow a fast search for knowing:
 Balancing of trees allow for lookups to be faster but require tree rotations some are self balancing.
 - Tries, AVL Trees/RedBlack, Skip Lists, b+ tree.
 
+Graphs are used for:
+- relationships of connectivity. Nodes point to each other.
+- graphs are similar to linked lists, they come in two forms, directed graphs and undirected graphs.
+
 ## Hashmap
 
 #### Hashmap java example
