@@ -1,5 +1,16 @@
 ## Data Structures and Algoritm Prep. Talk.
 
+#### Data Structures Paul N. Hilfinger
+
+SortedArrays and BinarySearchTrees allows a fast search for knowing:
+- “is there something larger (smaller) than X in here?”
+
+Heap allows a fast search for knowing:
+- “what is the largest item in here?”
+
+Hashing allows a fast search for knowing:
+- "whether some item is present— equality."
+
 ## Hashmap
 
 #### Hashmap java example
