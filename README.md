@@ -1,48 +1,5 @@
 ## data-structures-and-algoritm-prep-talk
 
-#### python syntax 
-operators:
-<br/>https://www.tutorialspoint.com/python/python_basic_operators.htm
-```
-if statements: 
-  if, elif, else;
-functions: 
-  def, return;
-```
-
-#### python b+ tree
-https://github.com/NicolasLM/bplustree
-https://gist.github.com/teepark/572734
-
-
-random blog post about trees in python:
-https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051
-
-#### bisect python function: 
-checks the array for the value and returns an index.
-<br/>expects the list to be sorted, will match the first positive and return the index-1 if less and index+1 if more.
-<br/>essentially: 
-```python
-num = 5
-list=[1,2,3] #list2=[1,2,5,6]
-
-def get_bisect:
-  for i in list: 
-    if (num < list[i] ):
-      return i
-    elif num == list[i]:
-      return i+1
-    elif(num > list[i] and i === list.length -1):
-      return i+1
-    else:
-      return "should never be reached"
-    
-# expected value: 3
-```
-
-## b+ tree
-
-
 ## hashmap java example
 ```
 /* switch 
@@ -56,6 +13,19 @@ import java.util.Map;
 */
 ```
 https://www.tutorialspoint.com/java/java_hashmap_class.htm
+
+## b+ tree
+
+#### python b+ tree
+https://github.com/NicolasLM/bplustree
+https://gist.github.com/teepark/572734
+
+random blog post about trees in python:
+<br/>https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051
+
+## caching algorithms
+https://en.wikipedia.org/wiki/Cache_replacement_policies
+<br/>https://en.wikipedia.org/wiki/Page_replacement_algorithm
 
 ## Java Stuff and C# give me a set of all inherited classes using reflection.
 
@@ -124,6 +94,40 @@ https://github.com/frptools/collectable - contains multiple structures including
 <br/>the immutable js docs are better than the github readme. https://immutable-js.github.io/immutable-js/
 <br/>https://github.com/mauriciosantos/Buckets-JS
 <br/>includes: Linked List Dictionary MultiDictionary Binary Search Tree Stack Queue Set Bag Binary Heap Priority Queue
+
+
+## python
+#### python syntax 
+operators:
+<br/>https://www.tutorialspoint.com/python/python_basic_operators.htm
+```
+if statements: 
+  if, elif, else;
+functions: 
+  def, return;
+```
+
+#### bisect python function: 
+checks the array for the value and returns an index.
+<br/>expects the list to be sorted, will match the first positive and return the index-1 if less and index+1 if more.
+<br/>essentially: 
+```python
+num = 5
+list=[1,2,3] #list2=[1,2,5,6]
+
+def get_bisect:
+  for i in list: 
+    if (num < list[i] ):
+      return i
+    elif num == list[i]:
+      return i+1
+    elif(num > list[i] and i === list.length -1):
+      return i+1
+    else:
+      return "should never be reached"
+    
+# expected value: 3
+```
 
 ## GoData Structures
 https://github.com/emirpasic/gods
