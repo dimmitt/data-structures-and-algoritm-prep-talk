@@ -1,6 +1,8 @@
-## data-structures-and-algoritm-prep-talk
+## Data Structures and Algoritm Prep. Talk.
 
-## hashmap java example
+## Hashmap
+
+#### Hashmap java example
 ```
 /* switch 
 import java.util.*;
@@ -23,7 +25,7 @@ https://gist.github.com/teepark/572734
 random blog post about trees in python:
 <br/>https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051
 
-## caching algorithms
+## Caching Algorithms
 https://en.wikipedia.org/wiki/Cache_replacement_policies
 <br/>https://en.wikipedia.org/wiki/Page_replacement_algorithm
 
@@ -36,7 +38,7 @@ Java relection: https://stackoverflow.com/a/9240969/5283424
 https://github.com/ronmamo/reflections
 <br/>https://github.com/classgraph/classgraph
 
-## from java.utils
+## From java.utils: 
 https://www.tutorialspoint.com/java/java_collections.htm
 </br>https://www.tutorialspoint.com/java/java_collection_interface.htm
 </br>[linked-list](https://www.tutorialspoint.com/java/java_linkedlist_class.htm) [array_list](https://www.tutorialspoint.com/java/java_arraylist_class.htm) 
@@ -96,8 +98,8 @@ https://github.com/frptools/collectable - contains multiple structures including
 <br/>includes: Linked List Dictionary MultiDictionary Binary Search Tree Stack Queue Set Bag Binary Heap Priority Queue
 
 
-## python
-#### python syntax 
+## Python
+#### Python Syntax 
 operators:
 <br/>https://www.tutorialspoint.com/python/python_basic_operators.htm
 ```
@@ -107,7 +109,7 @@ functions:
   def, return;
 ```
 
-#### bisect python function: 
+#### Bisect Python Function: 
 checks the array for the value and returns an index.
 <br/>expects the list to be sorted, will match the first positive and return the index-1 if less and index+1 if more.
 <br/>essentially: 
