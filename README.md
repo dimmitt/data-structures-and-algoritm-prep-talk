@@ -52,6 +52,15 @@ https://github.com/ronmamo/reflections
 <br/>https://github.com/classgraph/classgraph
 
 ## From java.utils: 
+```
+Another quote from Data Structures Paul N. Hilfinger:
+
+8.11 Using the library
+  Notwithstanding all the trouble we’ve taken in this chapter to look at sorting algorithms, 
+  in most programs you shouldn’t even think about writing your own sorting subprogram! 
+  Good libraries provide them for you. The Java standard library has a class java.util.Collections, 
+  which contains only static definitions of useful utilities related to Collections. 
+```
 https://www.tutorialspoint.com/java/java_collections.htm
 </br>https://www.tutorialspoint.com/java/java_collection_interface.htm
 </br>[linked-list](https://www.tutorialspoint.com/java/java_linkedlist_class.htm) [array_list](https://www.tutorialspoint.com/java/java_arraylist_class.htm) 
