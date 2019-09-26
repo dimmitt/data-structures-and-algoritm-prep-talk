@@ -90,7 +90,7 @@ maps
 ## Ruby
 graphs: https://github.com/monora/rgl
 <br/>linear algerbra multi dimensional array: https://github.com/rbotafogo/mdarray
-
+<br/>https://github.com/kanwei/algorithms
 ```
 https://github.com/kanwei/algorithms
 * Heaps              Containers::Heap, Containers::MaxHeap, Containers::MinHeap
