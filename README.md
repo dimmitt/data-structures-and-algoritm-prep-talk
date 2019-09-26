@@ -1,4 +1,7 @@
 # Data Structures and Algoritm Prep. Talk.
+https://en.wikipedia.org/wiki/List_of_algorithms
+https://en.m.wikipedia.org/wiki/List_of_data_structures
+https://en.wikipedia.org/wiki/Network_scheduler
 
 ## Paraphrased from: Data Structures Paul N. Hilfinger:
 
@@ -91,6 +94,7 @@ maps
 graphs: https://github.com/monora/rgl
 <br/>linear algerbra multi dimensional array: https://github.com/rbotafogo/mdarray
 <br/>https://github.com/kanwei/algorithms
+<br/>https://github.com/blahah/datastructures
 ```
 https://github.com/kanwei/algorithms
 * Heaps              Containers::Heap, Containers::MaxHeap, Containers::MinHeap
